@@ -9,12 +9,13 @@ This ReactJS application allows users to view movie details, check summaries, an
 - Proper component file structure
 <br/>
 <h2>🌐 Deployment:</h2>
-- Application hosted on Netlify: [Movie Ticket Booking App](https://movie-time-quadbtech.netlify.app/)
+- Application hosted on Netlify: https://movie-time-quadbtech.netlify.app/
 <br/>
 <h2>💻 Local Development:</h2>
-1. Clone the repository
-2. Install dependencies: `yarn install`
-3. Start the development server: `yarn start`
+
+1. Clone the repository<br/>
+2. Install dependencies: `yarn install`<br/>
+3. Start the development server: `yarn start`<br/>
 <br/>
 <h2>🎉 Conclusion:</h2>
 The Movie Ticket Booking Application is a user-friendly ReactJS app that allows users to explore movie details, summaries, and book tickets. It's built with a responsive UI using TailwindCSS and follows a well-organized component structure.
