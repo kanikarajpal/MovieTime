@@ -1,4 +1,4 @@
-<h1>🎥 Movie Ticket Booking Application<?h1>
+<h1>🎥 Movie Ticket Booking Application</h1>
 <br/>
 This ReactJS application allows users to view movie details, check summaries, and book tickets. It fetches movie data from the Tvmaze API and implements a user-friendly interface with TailwindCSS. The project is hosted on Netlify and version-controlled using Git.
 <br/>
